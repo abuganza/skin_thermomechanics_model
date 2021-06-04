@@ -1,6 +1,7 @@
 # Skin thermo-mechanics modeling
 
 Theoretical models of skin thermo-mechanical response to superphysiological temperatures. 
+[Link to Jupyter notebook](https://github.com/abuganza/skin_thermomechanics_model/The\ biaxial\ mechanics\ of\ thermally\ denaturing\ skin\ -\ Part\ 2\ Modelling.ipynb)
 
 As a starting point, the native skin behavior is modeled with a microstructure-based strain energy function accounting for fiber orientation and waviness distribution. 
 
